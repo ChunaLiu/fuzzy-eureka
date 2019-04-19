@@ -1,5 +1,5 @@
 # Make chocolate
-BE534 HW-14-open
+BE534 HW-14-open, by Chunan Liu, chunanliu@email.arizona.edu
 
 Write a python program called make_chocolate.py.
 
